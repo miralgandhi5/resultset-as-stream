@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/resultset_as_stream_poc.iml" filepath="$PROJECT_DIR$/.idea/modules/resultset_as_stream_poc.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/resultset_as_stream_poc-build.iml" filepath="$PROJECT_DIR$/.idea/modules/resultset_as_stream_poc-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/resultset-as-stream.iml" filepath="$PROJECT_DIR$/.idea/modules/resultset-as-stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/resultset-as-stream-build.iml" filepath="$PROJECT_DIR$/.idea/modules/resultset-as-stream-build.iml" />
     </modules>
   </component>
 </project>

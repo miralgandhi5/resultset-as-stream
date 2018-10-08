@@ -9,6 +9,7 @@ val Postgres               = "org.postgresql"                % "postgresql"     
 val AkkaActor              = "com.typesafe.akka"             %% "akka-actor"      % "2.5.11"
 val AkkaHttp               = "com.typesafe.akka"             %% "akka-http"                         % "10.1.5"
 val AkkaHttpCors           = "ch.megard"                     %% "akka-http-cors"                    % "0.3.0"
+val PlayJson               = "com.typesafe.play"             %% "play-json"                         % "2.6.7"
 
 
-libraryDependencies ++= Seq(AkkaStream, Postgres, AkkaActor, AkkaHttp, AkkaHttpCors)
+libraryDependencies ++= Seq(AkkaStream, Postgres, AkkaActor, AkkaHttp, AkkaHttpCors, PlayJson)
